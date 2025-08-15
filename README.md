@@ -27,7 +27,7 @@ Aplicar as etapas da modelagem de dados para estruturar as informações da empr
 ## 🧰 Ferramentas Utilizadas
 
 - 🧩 **Visual Paradigm**: para criação dos modelos conceitual, lógico e físico
-- 🗃️ Banco de dados relacional (MySQL ou PostgreSQL)
+- 🗃️ Banco de dados relacional ( PostgreSQL)
 - 📂 Git e GitHub: versionamento e documentação
 
 ## 📁 Estrutura do Repositório
